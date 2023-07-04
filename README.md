@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+# REACT_ROUTER_DOM
+<img src="/Gif/gif.gif" alt="gif">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Project Description
+This project includes a web application for a restaurant that offers an online menu and reservation system. Users can view the menu, order and make reservations for meals.
 
-## Available Scripts
+# Features
+Users can see the restaurant's information on the home page.
+On the menu page, users can view food categories and dishes.
+Users can add the dishes they choose to the cart and place an order.
+On the reservation page, users can enter their reservation information and make a reservation.
+Users can contact the restaurant on the contact page.
 
-In the project directory, you can run:
+# Use
+When the application runs, open http://localhost:3000 in your browser. You can see the restaurant information on the home page. You can view the dishes on the menu page and add them to the cart. To place an order, go to the cart page and enter the required information. To make a reservation, go to the reservation page and enter the required information. You can contact the restaurant on the contact page.
 
-### `npm start`
+# Folder Structure
+The project structure will be as follows:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+src: Contains the source codes of the application.
+components: Contains application components.
+pages: Contains different pages of the application.
+assets: Contains image and other media files.
+App.js: Contains the main application component and manages redirects.
+index.js: It is the entry point of the application.# React-restaurant
